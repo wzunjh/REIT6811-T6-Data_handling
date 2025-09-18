@@ -51,10 +51,10 @@ REIT6811-T6-Data_handling/
 
 Open the folder locally and start working.
 
-### 💻 Step 3: Creates a new branch sXXXXXXX-Name
-Or in terminal:
+### 💻 Step 3: Create a new branch sXXXXXXX-Name  
+Or in terminal:  
 ```bash
-git checkout -b s1234567-johndoe
+git checkout -b s1234567-Name
 
 ### 💻 Step 4: Creates a new folder named after your student ID (sXXXXXXX-folder_name_as_per_tutorial) in the repo root
 ### 🔧 Step 5: Take the template structure you've provided and refactor or organise their own copy to follow proper file naming conventions and folder organisation best practices.
