@@ -55,7 +55,7 @@ Open the folder locally and start working.
 Or in terminal:  
 ```bash
 git checkout -b s1234567-Name
-
+```
 ### 💻 Step 4: Creates a new folder named after your student ID (sXXXXXXX-folder_name_as_per_tutorial) in the repo root
 ### 🔧 Step 5: Take the template structure you've provided and refactor or organise their own copy to follow proper file naming conventions and folder organisation best practices.
 You may also create your own structure from scratch if preferred.
