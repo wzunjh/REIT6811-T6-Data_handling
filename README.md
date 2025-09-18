@@ -60,5 +60,5 @@ git checkout -b s1234567-Name
 ### 🔧 Step 5: Take the template structure you've provided and refactor or organise their own copy to follow proper file naming conventions and folder organisation best practices.
 You may also create your own structure from scratch if preferred.
 Note: GitHub does not track empty folders, so include dummy files where needed.
-### 💻 Step 6:Commits and pushes changes to their branch.
-### 💻 Step 7:Creates a pull request from their forked repo → your main repo.
+### 💻 Step 6: Commits and pushes changes to their branch.
+### 💻 Step 7: Creates a pull request from their forked repo → your main repo.
