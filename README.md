@@ -57,8 +57,9 @@ Or in terminal:
 git checkout -b s1234567-Name
 ```
 ### 💻 Step 4: Creates a new folder named after your student ID (sXXXXXXX-folder_name_as_per_tutorial) in the repo root
-### 🔧 Step 5: Take the template structure you've provided and refactor or organise their own copy to follow proper file naming conventions and folder organisation best practices.
+### 🔧 Step 5: Copy the template structure provided and refactor.
 You may also create your own structure from scratch if preferred.
 Note: GitHub does not track empty folders, so include dummy files where needed.
-### 💻 Step 6: Commits and pushes changes to their branch.
-### 💻 Step 7: Creates a pull request from their forked repo → your main repo.
+### 💻 Step 6: Commits and pushes changes to your branch.
+### 💻 Step 7: Creates a pull request from your forked repo → main repo.
+### 💻 Step 8: Take screenshots of relevant screens as per handout questions for your jounral entry submission.
