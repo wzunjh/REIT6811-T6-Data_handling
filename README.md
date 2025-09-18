@@ -50,3 +50,15 @@ REIT6811-T6-Data_handling/
   git clone https://github.com/yourusername/REIT6811-T6-Data_handling.git
 
 Open the folder locally and start working.
+
+### 💻 Step 3: Creates a new branch sXXXXXXX-Name
+Or in terminal:
+```bash
+git checkout -b s1234567-johndoe
+
+### 💻 Step 4: Creates a new folder named after your student ID (sXXXXXXX-folder_name_as_per_tutorial) in the repo root
+### 🔧 Step 5: Take the template structure you've provided and refactor or organise their own copy to follow proper file naming conventions and folder organisation best practices.
+You may also create your own structure from scratch if preferred.
+Note: GitHub does not track empty folders, so include dummy files where needed.
+### 💻 Step 6:Commits and pushes changes to their branch.
+### 💻 Step 7:Creates a pull request from their forked repo → your main repo.
